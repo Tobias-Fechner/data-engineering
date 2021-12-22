@@ -6,6 +6,7 @@ authors = ["Tbs_Fchnr <tobias.fechner@hotmail.co.uk>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+psycopg2 = "^2.9.2"
 
 [tool.poetry.dev-dependencies]
 
